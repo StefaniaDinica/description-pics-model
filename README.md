@@ -1,5 +1,7 @@
 # Multilabel classification model for description.pics
 
+The deployed web application can be viewed at https://description.pics.
+
 ## About
 ImagesDescription.ipynb applies a multilabel classification on a dataset of uploaded images and their descriptions.
 
