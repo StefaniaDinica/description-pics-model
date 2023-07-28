@@ -2,6 +2,8 @@
 
 The deployed web application can be viewed at https://description.pics.
 
+Medium post: [Multi-label classification for generating images descriptions](https://medium.com/@stefaniadinica/multi-label-classification-for-generating-images-descriptions-8f362fe5dff8)
+
 ## About
 ImagesDescription.ipynb applies a multilabel classification on a dataset of uploaded images and their descriptions.
 
