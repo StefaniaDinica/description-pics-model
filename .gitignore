@@ -1,2 +1,6 @@
 images/
 movies_images/
+labels.npy
+model-image-description.h5
+genres.npy
+model-movie-genre.h5
